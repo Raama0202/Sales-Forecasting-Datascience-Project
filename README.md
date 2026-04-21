@@ -6,6 +6,13 @@ Predictive modeling project focused on estimating future outlet-item sales from 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-green)
 ![Status](https://img.shields.io/badge/Project-Complete-success)
 
+## Project Highlights
+
+- End-to-end sales forecasting workflow from raw data to trained model
+- Multiple regression baselines and ensemble methods compared
+- Visual EDA outputs included for feature and distribution analysis
+- Serialized model artifact available in `Pickle/Model.pkl`
+
 ## Project Overview
 
 This project builds a complete sales forecasting workflow:
